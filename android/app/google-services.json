@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013139955650",
+    "firebase_url": "https://store-ccadd-default-rtdb.firebaseio.com",
+    "project_id": "store-ccadd",
+    "storage_bucket": "store-ccadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013139955650:android:272f73988b6129c6b2805b",
+        "android_client_info": {
+          "package_name": "com.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013139955650-qqkb8tsggvl0khctaiv3ejbpil29ubi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.book",
+            "certificate_hash": "af0ceb84070b929d709a7f84bb01357ac44bbe17"
+          }
+        },
+        {
+          "client_id": "1013139955650-e60g0m8bdbe76c2dk7m6dsfsjst7mlrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-Tgv6X9MH1P6KxyHlE8vWMSKWuWAJec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013139955650-e60g0m8bdbe76c2dk7m6dsfsjst7mlrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
