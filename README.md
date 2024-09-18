@@ -19,16 +19,23 @@ Welcome to the **Book Store App**! This project is a mobile application built us
 To get started with the Book Store App, follow these steps:
 
 1. **Clone the Repository**:
+   
    ```shell
    git clone https://github.com/AadarshThakur03/bookStore.git
    cd bookStore
+   
 2. **Install Dependencies**:
+   
    ```shell
    npm install
+   
 3. **Configure Firebase(Optional)**:
+   
    - Create a Firebase project at https://firebase.google.com/.
    - Enable Authentication, Firestore Database, and Cloud Storage.
    - Replace the Firebase configuration in the app with your project's configuration.
+   - 
 4. **Run the App on Android**:
+   
    ```shell
    npx react-native run-android
